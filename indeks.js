@@ -106,3 +106,7 @@ async function updateProduct(id) {
 
     }
 }
+///
+
+
+// const API2 = "https://65ab6a1efcd1c9dcffc659a4.mockapi.io/api/v1/list";
